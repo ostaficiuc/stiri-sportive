@@ -1,0 +1,13 @@
+/*
+Theme Name: newsup child
+Theme URI:  https://www.wpserveur.net
+Author:     WPServeur
+Author URI: https://www.wpserveur.net
+Template:   newsup
+Version:    1.0
+License:    GNU General Public License v2 or later
+*/
+
+#wb-api-football-modal {
+		z-index: 1000 !important;
+}
