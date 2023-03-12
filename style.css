@@ -11,3 +11,7 @@ License:    GNU General Public License v2 or later
 #wb-api-football-modal {
 		z-index: 1000 !important;
 }
+
+body {
+	background-color: green;
+}
